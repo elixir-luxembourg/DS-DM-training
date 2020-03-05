@@ -6,15 +6,18 @@ Pinar Alper, Nicola de Lange, Roland Krause, Alexey Kolodkin and Vilem Ded
 ELIXIR-LU, Luxembourg Centre for Systems Biomedicine, Campus Belval, Biotech II, 6 avenue du Swing, L-4367 Belvaux 
 
 ### Learning Objectives:
-Learners should be able to:
-- understand FAIR Principles for (meta)data and its importance. They will have general knowledge of how to assess overall FAIRness of their day-to-day (meta)data and related processes and how to propose and implement necessary changes including rule/policy definition and dissemination. They will be also able to orient themselves in existing tools and incorporate these tools into their data management workflows.
-- define data stewardship and related key responsibilities and activities.
-- understand to General Data Protection Regulation, its vocabulary and implications. They will be able to define data processing roles, access permissions and obligations of different parties involved. They should acquire skills increasing overall security of data and be able to comply to the data protection regulations in their daily work by using dedicated software and by following global/internal policies.
-- describe data management life-cycle and assign each of their activities into one of the life-cycle phases. They should know what are the key outcomes and how to avoid common mistakes made in each phase.
-- plan their project data management and processing in concise and effective way using dedicated tools while following international and internal (institutional) standards.
-- understand the necessity of reproducibility of data processing and analyses and its impact on scientific work. They should gain strong confidence in designing a reproducible data processing workflow and profit from it in their future scientific career.
-- choose proper solution for archiving or publishing of their research data to adhere to FAIR data principles
-
+- To understand FAIR Principles for (meta)data and its importance. 
+- To be able to assess overall FAIRness of day-to-day projects (meta)data and related processes and to know how to implement necessary changes including rule/policy definition and dissemination.
+- To have an overview of existing data management tools and clear notion of how they can be incorporated into a particular workflow.
+- To get acquainted with practical data stewardship and related key responsibilities and activities.
+- To understand General Data Protection Regulation, its vocabulary and implications.
+- To be able to define data processing roles, access permissions and obligations of different parties involved in processing of human/sensitive data. 
+- To acquire skills increasing overall data security during project lifetime.
+- To learn about data management life-cycle and how to avoid common mistakes made in each of its phase.
+- To be able to plan a project data management and processing in concise and effective way using dedicated tools while following international and internal (institutional) standards.
+- To understand the necessity of reproducibility of data processing and analyses and its impact on scientific work. 
+- To gain strong confidence in designing and implementing of a reproducible data processing workflow necessary for successful scientific career.
+- To be able to select proper solution for archiving or publishing of research data in order to adhere to FAIR data principles
 
 ### Learning topics:
 - Understanding the FAIR Principles for data
