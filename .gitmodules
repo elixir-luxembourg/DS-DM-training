@@ -1,0 +1,9 @@
+[submodule "session_3_ds-wizard"]
+	path = session_3_ds-wizard
+	url = git@github.com:elixir-luxembourg/dsw-practical.git
+[submodule "session_4_daisy"]
+	path = session_4_daisy
+	url = git@github.com:elixir-luxembourg/daisy-practical.git
+[submodule "session_6_snakemake"]
+	path = session_6_snakemake
+	url = ssh://git@git-r3lab-server.uni.lu:8022/R3/school/snakemake-tutorial.git
