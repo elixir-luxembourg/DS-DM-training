@@ -63,6 +63,15 @@ The course is made up of seven sessions covering:
 
 # Session 3 Practicalities of data handling
 
+* Research data transfer
+* Optimal file naming and organization
+* Management of data integrity
+  * README files
+  * Checksums
+  * Encryption
+  * Read-only permission
+* Data retention
+* Practical on data ingestion
 
 # Session 4 Reproducible computational analyses
 
