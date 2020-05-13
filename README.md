@@ -16,11 +16,13 @@ The course is made up of seven sessions covering:
 * To learn about software tools that assist data management planning.
 * To learn how the GDPR affects research and to reveal researchers' responsibilities when working with human-subject data.
 * To learn about the record keeping requirements of the GDPR, and the tools that can be used for record keeping during the course of research.
+* To learn about various data transfer channels, their advantages and disadvantages
+* To learn how to properly name files and organize research data
+* To learn about data integrity and its role in research data management
 * To learn how to make computational processing and analysis reproducible.
 * ...
 * To learn about FAIR data principles and their rationale, to reveal key indicators for FAIR'ness for a dataset.
-* ...
-* ...
+* To learn how FAIR principles can be applied in data and results publishing on the example of data publishing at FAIRDOMHub.
 
 **Learning Outcomes:**
 
@@ -28,11 +30,13 @@ The course is made up of seven sessions covering:
 * Learners can use the Data Stewardship Wizard to record data management decisions for prospective projects.
 * Learners can list requirements for accountable use of human data in research
 * Learners can use the Data Information System to keep record of research projects and sensitive human-subject data.
+* Learners can setup their own safe working environment
+* Learners are able to ingest research data and perform key operations increasing the data integrity
 * Learners can use snakemake and conda to structure their computational workflows and make them reproducible.
 * ...
 * Learners can tell whether or not their current practices on data handling results in FAIR data.
-* ...
-* ...
+* Learners can publish their data and their results in accordance to FAIR principles
+* Learners can use FAIRDOMHub and similar platforms for their future work
 
 ## Materials to be explored before attending the course
 
@@ -93,3 +97,7 @@ The course is made up of seven sessions covering:
 * Group discussions
 
 ### Session 7 Data publishing and archival
+
+* Recalling FAIR principles in publishing data and results
+* Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
+* Practical using FAIRDOMHub for FAIR data and results publishing
