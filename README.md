@@ -19,8 +19,7 @@ The course is made up of seven sessions covering:
 * To learn how to make computational processing and analysis reproducible.
 * ...
 * To learn about FAIR data principles and their rationale, to reveal key indicators for FAIR'ness for a dataset.
-* ...
-* ...
+* To learn how FAIR principles can be applied in data and results publishing on the example of data publishing at FAIRDOMHub.
 
 **Learning Outcomes:**
 
@@ -31,8 +30,8 @@ The course is made up of seven sessions covering:
 * Learners can use snakemake and conda to structure their computational workflows and make them reproducible.
 * ...
 * Learners can tell whether or not their current practices on data handling results in FAIR data.
-* ...
-* ...
+* Learners can publish their data and their results in accordance to FAIR principles
+* Learners can use FAIRDOMHub and similar platforms for their future work
 
 ## Materials to be explored before attending the course
 
@@ -93,3 +92,7 @@ The course is made up of seven sessions covering:
 * Group discussions
 
 ### Session 7 Data publishing and archival
+
+* Recalling FAIR principles in publishing data and results
+* Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
+* Practical using FAIRDOMHub for FAIR data and results publishing
