@@ -88,6 +88,13 @@ The course is made up of seven sessions covering:
 * Exercises and discussion
 
 ### Session 5 Exploratory analyses, reproducible manuscripts
+* Data and project organization for analysis
+* Literate programming 
+* Writing manuscripts using RMarkdown
+  * Introduction
+  * Worked example from Chip-Seq
+  * Lessons learned
+
 
 ### Session 6 FAIR data principles
 
