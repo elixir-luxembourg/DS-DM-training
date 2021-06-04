@@ -7,3 +7,6 @@
 [submodule "practical_snakemake"]
 	path = practical_snakemake
 	url = ssh://git@git-r3lab-server.uni.lu:8022/R3/school/snakemake-tutorial.git
+[submodule "dmponline-practical"]
+	path = dmponline-practical
+	url = https://github.com/elixir-luxembourg/dmponline-practical.git
