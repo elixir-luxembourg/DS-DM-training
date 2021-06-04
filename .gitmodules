@@ -1,12 +1,12 @@
 [submodule "practical_dsw"]
-	path = practical_dsw
+	path = practical_session1_dsw
 	url = git@github.com:elixir-luxembourg/dsw-practical.git
 [submodule "practical_daisy"]
-	path = practical_daisy
+	path = practical_session2_daisy
 	url = git@github.com:elixir-luxembourg/daisy-practical.git
 [submodule "dmponline-practical"]
-	path = dmponline-practical
+	path = practical_session1_dmponline
 	url = https://github.com/elixir-luxembourg/dmponline-practical.git
 [submodule "data-ingestion-practical"]
-	path = data-ingestion-practical
+	path = practical_session3_data-ingestion
 	url = git@github.com:elixir-luxembourg/data-ingestion-practical.git
