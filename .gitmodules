@@ -7,3 +7,6 @@
 [submodule "dmponline-practical"]
 	path = dmponline-practical
 	url = https://github.com/elixir-luxembourg/dmponline-practical.git
+[submodule "data-ingestion-practical"]
+	path = data-ingestion-practical
+	url = git@github.com:elixir-luxembourg/data-ingestion-practical.git
