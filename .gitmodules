@@ -4,9 +4,9 @@
 [submodule "practical_daisy"]
 	path = practical_daisy
 	url = git@github.com:elixir-luxembourg/daisy-practical.git
-[submodule "practical_snakemake"]
-	path = practical_snakemake
-	url = ssh://git@git-r3lab-server.uni.lu:8022/R3/school/snakemake-tutorial.git
 [submodule "dmponline-practical"]
 	path = dmponline-practical
 	url = https://github.com/elixir-luxembourg/dmponline-practical.git
+[submodule "data-ingestion-practical"]
+	path = data-ingestion-practical
+	url = git@github.com:elixir-luxembourg/data-ingestion-practical.git
