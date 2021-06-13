@@ -46,7 +46,7 @@ The course is made up of seven sessions covering:
 * Research data lifecycle
 * Areas of consideration in data management planning
 * Data management planning tools
-* Practical with the Data Stewardship Wizard (DSW)
+* Practical with the DMPOnline and Data Stewardship Wizard (DSW)
 
 ### Session 2 Data protection in research
 
@@ -71,6 +71,7 @@ The course is made up of seven sessions covering:
 * Practical on data ingestion
 
 ### Session 4 Exploratory analyses, reproducible manuscripts
+
 * Data and project organization for analysis
 * Literate programming
 * Writing manuscripts using RMarkdown
