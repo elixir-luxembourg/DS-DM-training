@@ -86,7 +86,7 @@ The course is made up of seven sessions covering:
 * Achieving FAIR'ness, possible paths
 * Group discussions
 
-### Session 7 Data publishing and archival
+### Session 6 Data publishing and archival
 
 * Recalling FAIR principles in publishing data and results
 * Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
