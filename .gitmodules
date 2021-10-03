@@ -10,3 +10,6 @@
 [submodule "data-ingestion-practical"]
 	path = practical_session3_data-ingestion
 	url = git@github.com:elixir-luxembourg/data-ingestion-practical.git
+[submodule "practical_session4_project-setup"]
+	path = practical_session4_project-setup
+	url = https://github.com/elixir-luxembourg/project-setup-practical.git
