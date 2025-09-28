@@ -1,3 +1,11 @@
+# Practical on data flow diagram drawing.
+Duration: 25 minutes (5 mins introduction, 10 minutes drawing, 10 minutes open discussion)
+
+Style: Break-out session
+
+Description: Each team gets assigned one of the scenarios below. The task is to draw a data flow diagram either on paper or using online tools.
+Each group presents the diagram, challenges and solutions. Lecturer can pinpoint good choices and suggest improvements. 
+
 ### 1. Space Science – Observation of a Rare Atmospheric Event
 
 You are a researcher at the University of Luxembourg’s Physics Department, collaborating with ESA and a university in Japan on “AuroraTrack,” a study of a rare atmospheric phenomenon over the Arctic.
